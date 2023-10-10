@@ -1,0 +1,23 @@
+Html {
+  background: url(img/360_F_348332074_9KJZhOZI7PzTLLp6HQTtVj9DkgHfGcLF.jpg);
+  background-size: cover;
+}
+body {
+  background: white;
+  width: 500px;
+  margin: 20px auto;
+  border: 5px solid darkgrey;
+  border-radius: 15px;
+}
+p {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  font-family: fantasy;
+  letter-spacing: 6px;
+}
+h2 {
+  text-align: center;
+  font-family: verdana;
+}
